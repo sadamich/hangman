@@ -31,3 +31,8 @@ legend("topright",
  col = "red",
  lty = 2
  )
+
+
+###reference###
+https://www.geo.fu-berlin.de/en/v/soga-r/Basics-of-statistics/
+Discrete-Random-Variables/The-Mean-and-Standard-Deviation/index.html
